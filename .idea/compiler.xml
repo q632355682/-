@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eureka-client" />
+        <module name="eureka-keepalived-client" />
+        <module name="eureka-keepalived-server-1" />
+        <module name="eureka-keepalived-server-2" />
+        <module name="eureka-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eureka-client" target="1.8" />
+      <module name="eureka-keepalived-client" target="1.8" />
+      <module name="eureka-keepalived-server" target="1.8" />
+      <module name="eureka-keepalived-server-1" target="1.8" />
+      <module name="eureka-keepalived-server-2" target="1.8" />
+      <module name="eureka-service" target="1.8" />
+      <module name="eurekakeep-alived-client" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
