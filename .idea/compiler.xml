@@ -10,6 +10,9 @@
         <module name="eureka-keepalived-client" />
         <module name="eureka-keepalived-server-1" />
         <module name="eureka-keepalived-server-2" />
+        <module name="eureka-ribbon-client" />
+        <module name="eureka-ribbon-client2" />
+        <module name="eureka-ribbon-server" />
         <module name="eureka-service" />
       </profile>
     </annotationProcessing>
@@ -19,6 +22,9 @@
       <module name="eureka-keepalived-server" target="1.8" />
       <module name="eureka-keepalived-server-1" target="1.8" />
       <module name="eureka-keepalived-server-2" target="1.8" />
+      <module name="eureka-ribbon-client" target="1.8" />
+      <module name="eureka-ribbon-client2" target="1.8" />
+      <module name="eureka-ribbon-server" target="1.8" />
       <module name="eureka-service" target="1.8" />
       <module name="eurekakeep-alived-client" target="1.8" />
     </bytecodeTargetLevel>

@@ -1,0 +1,23 @@
+package com.cn.contorller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.ResponseBody;
+
+/**
+ * @program: springcloud-example
+ * @description:
+ * @author: 535504
+ * @create: 2018-06-15 16:12
+ **/
+@Controller
+public class ClientController {
+
+    @GetMapping("/getUser")
+    @ResponseBody
+    public String getUser() {
+        System.out.println("获取用户成功");
+        return "获取用户成功";
+    }
+
+}

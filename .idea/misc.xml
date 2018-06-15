@@ -12,6 +12,9 @@
         <option value="$PROJECT_DIR$/eureka-keepalived-server-1/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-keepalived-server-2/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-keepalived-client/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-ribbon-server/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-ribbon-client/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-ribbon-client2/pom.xml" />
       </list>
     </option>
   </component>
