@@ -13,6 +13,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 @Controller
 public class ClientController {
 
+
     @GetMapping("/getUser")
     @ResponseBody
     public String getUser() {

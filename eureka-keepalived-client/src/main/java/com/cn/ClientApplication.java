@@ -10,6 +10,7 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
  * @author: 535504
  * @create: 2018-06-14 16:12
  **/
+
 @SpringBootApplication
 @EnableDiscoveryClient
 public class ClientApplication {

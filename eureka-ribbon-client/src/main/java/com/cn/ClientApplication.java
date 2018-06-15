@@ -10,24 +10,25 @@ import org.springframework.web.client.RestTemplate;
 /**
  * @program: springcloud-example
  * @description:
- * @author:
+ * @author: 535504
  * @create: 2018-06-15 15:51
  **/
 @SpringBootApplication
 @EnableDiscoveryClient
 public class ClientApplication {
 
+
     public static void main(String[] args) {
         SpringApplication.run(ClientApplication.class, args);
     }
 
-    /** 
-     * @Description: 加入@LoadBalanced注解，就可以为RestTemplate加入负载均衡的能力 
+    /**
+     * @Description:
      * @Param:
-     * @return:  
-     * @Author: 535504 
-     * @Date: 2018/6/15 
-     */ 
+     * @return:
+     * @Author: 535504
+     * @Date: 2018/6/15
+     */
     @Bean
     @LoadBalanced
     public RestTemplate getRestTemplate() {
