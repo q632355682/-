@@ -17,6 +17,8 @@
         <option value="$PROJECT_DIR$/eureka-ribbon-client2/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-hystrix-client/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-feign-client/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-feign-hystrix-client/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-hystrix-turbine/pom.xml" />
       </list>
     </option>
   </component>

@@ -8,7 +8,9 @@
         <outputRelativeToContentRoot value="true" />
         <module name="eureka-client" />
         <module name="eureka-feign-client" />
+        <module name="eureka-feign-hystrix-client" />
         <module name="eureka-hystrix-client" />
+        <module name="eureka-hystrix-turbine" />
         <module name="eureka-keepalived-client" />
         <module name="eureka-keepalived-server-1" />
         <module name="eureka-keepalived-server-2" />
@@ -21,7 +23,9 @@
     <bytecodeTargetLevel>
       <module name="eureka-client" target="1.8" />
       <module name="eureka-feign-client" target="1.8" />
+      <module name="eureka-feign-hystrix-client" target="1.8" />
       <module name="eureka-hystrix-client" target="1.8" />
+      <module name="eureka-hystrix-turbine" target="1.8" />
       <module name="eureka-keepalived-client" target="1.8" />
       <module name="eureka-keepalived-server" target="1.8" />
       <module name="eureka-keepalived-server-1" target="1.8" />
