@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/eureka-client/eureka-client.iml" filepath="$PROJECT_DIR$/eureka-client/eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-feign-client/eureka-feign-client.iml" filepath="$PROJECT_DIR$/eureka-feign-client/eureka-feign-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-hystrix-client/eureka-hystrix-client.iml" filepath="$PROJECT_DIR$/eureka-hystrix-client/eureka-hystrix-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-keepalived-client/eureka-keepalived-client.iml" filepath="$PROJECT_DIR$/eureka-keepalived-client/eureka-keepalived-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-keepalived-server-1/eureka-keepalived-server-1.iml" filepath="$PROJECT_DIR$/eureka-keepalived-server-1/eureka-keepalived-server-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-keepalived-server-2/eureka-keepalived-server-2.iml" filepath="$PROJECT_DIR$/eureka-keepalived-server-2/eureka-keepalived-server-2.iml" />

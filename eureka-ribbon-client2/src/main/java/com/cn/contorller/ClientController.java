@@ -18,7 +18,7 @@ public class ClientController {
     @ResponseBody
     public String getUser() {
         System.out.println("获取用户成功");
-        return "获取用户成功";
+        return "{\"username\":\"张三\",\"age\":\"10\"}";
     }
 
 }
