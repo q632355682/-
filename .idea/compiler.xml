@@ -18,6 +18,7 @@
         <module name="eureka-ribbon-client2" />
         <module name="eureka-ribbon-server" />
         <module name="eureka-service" />
+        <module name="gateway-zuul" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -36,6 +37,7 @@
       <module name="eureka-ribbon-server" target="1.8" />
       <module name="eureka-service" target="1.8" />
       <module name="eurekakeep-alived-client" target="1.8" />
+      <module name="gateway-zuul" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
