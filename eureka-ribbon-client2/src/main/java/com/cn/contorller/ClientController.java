@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 /**
  * @program: springcloud-example
  * @description:
- * @author: 535504
+ * @author:
  * @create: 2018-06-15 16:12
  **/
 @Controller
